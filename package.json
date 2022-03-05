@@ -7,7 +7,7 @@
     "url": "https://github.com/Bartekkur1/mimirion-client"
   },
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "keywords": [
     "mimirion",
@@ -15,5 +15,14 @@
     "configuration"
   ],
   "author": "Bartlomiej Kurpanik",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "object-path": "^0.11.8"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "sinon": "^13.0.1"
+  }
 }

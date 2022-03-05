@@ -1,0 +1,19 @@
+{
+  "name": "mimirion-client",
+  "version": "1.0.0",
+  "description": "Mimirion configuration server client",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Bartekkur1/mimirion-client"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mimirion",
+    "bartekkur1",
+    "configuration"
+  ],
+  "author": "Bartlomiej Kurpanik",
+  "license": "MIT"
+}

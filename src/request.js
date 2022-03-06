@@ -23,7 +23,6 @@ const fetchConfiguration = async () => {
 
         return data;
     } catch (err) {
-        console.log(err);
         const message = get(err, 'response.data.error', err.message);
         throw new Error(`Error! ${message}`);
     }

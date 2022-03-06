@@ -7,7 +7,8 @@
     "url": "https://github.com/Bartekkur1/mimirion-client"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest ./tests/unit",
+    "test-integration": "jest ./tests/integration"
   },
   "keywords": [
     "mimirion",

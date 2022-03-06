@@ -1,6 +1,6 @@
 {
   "name": "mimirion-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mimirion configuration server client",
   "main": "index.js",
   "repository": {
